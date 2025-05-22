@@ -4,7 +4,7 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Disk Sanitation Home Lab](https://github.com/Mreyes183/DiskSanitationLab)
-  - [Hello World!](https://github.com/Mreyes183/LABURL)
+  - [Hello World!](https://github.com/Mreyes183/HelloWorld-/blob/main/README.md)
  
  <h2> Certifications</h2>
 
