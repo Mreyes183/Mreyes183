@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/Mreyes183/Algorithms-LABURL)
+  - [Disk Sanitation Home Lab](https://github.com/Mreyes183/Algorithms-LABURL)
   - [Hello World!](https://github.com/Mreyes183/LABURL)
  
  <h2> Certifications</h2>
